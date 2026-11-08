@@ -1,12 +1,12 @@
 {
-    "notes":  "1. 激活页支持手机扫码输入激活码（同一 WiFi）。\n2. 手机页面粘贴激活码，电视自动激活。",
+    "notes":  "1. 进设置自动检查更新：有新版按钮高亮「更新」，没有显示已是最新。\n2. 点「更新」直接下载安装。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.5.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.5.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.5.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.5.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.6.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.6.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.6.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.6.apk"
              ],
-    "md5":  "d10c18ad3c35b29e9e27d3371df9bf7a",
-    "versionName":  "2.0.5",
-    "versionCode":  215
+    "md5":  "643d605c0a6f97b7c1d277bab835450e",
+    "versionName":  "2.0.6",
+    "versionCode":  216
 }
