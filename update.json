@@ -1,12 +1,12 @@
 {
-    "notes":  "引导页「测试锁屏」字号字重与「完成」完全一致。",
+    "notes":  "引导页两个按钮统一 18sp 加粗，字号完全一致。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.26.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.26.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.26.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.26.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.27.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.27.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.27.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.27.apk"
              ],
-    "md5":  "99f558fe4cebff2e38e71113820e761f",
-    "versionName":  "2.0.26",
-    "versionCode":  236
+    "md5":  "6117c01ab9b35079eb1845d1a87d5216",
+    "versionName":  "2.0.27",
+    "versionCode":  237
 }
