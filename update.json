@@ -1,12 +1,12 @@
 {
-    "notes":  "豆包提示词补全：没装应用也能先装；手册新增安装/更新章节。",
+    "notes":  "关于-遇到问题补充：老电视无法应用内更新时，可用 U 盘或豆包帮忙安装。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.14.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.14.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.14.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.14.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.15.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.15.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.15.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.15.apk"
              ],
-    "md5":  "8c2880c71aeb2097ff3b8a0127205e24",
-    "versionName":  "2.0.14",
-    "versionCode":  224
+    "md5":  "d98027c02423bf61d46446616879095c",
+    "versionName":  "2.0.15",
+    "versionCode":  225
 }
