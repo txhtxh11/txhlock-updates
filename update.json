@@ -1,12 +1,12 @@
 {
-    "notes":  "1. 激活页新增购买二维码（扫码加微信，发设备码换激活码）。\n2. 激活页布局微调。",
+    "notes":  "1. 激活页支持手机扫码输入激活码（同一 WiFi）。\n2. 手机页面粘贴激活码，电视自动激活。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.4.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.4.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.4.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.4.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.5.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.5.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.5.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.5.apk"
              ],
-    "md5":  "032784cad7e6ed8961760d30d75daa5e",
-    "versionName":  "2.0.4",
-    "versionCode":  214
+    "md5":  "d10c18ad3c35b29e9e27d3371df9bf7a",
+    "versionName":  "2.0.5",
+    "versionCode":  215
 }
