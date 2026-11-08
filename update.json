@@ -1,12 +1,12 @@
 {
-    "notes":  "激活页进入即聚焦输入框，遥控器可直接输入激活码。",
+    "notes":  "豆包安装说明加了防缓存步骤：带时间戳拉 update.json、下载后校验 MD5。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.17.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.17.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.17.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.17.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.18.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.18.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.18.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.18.apk"
              ],
-    "md5":  "e6a14720a121bef0aebf7cd8a2ef7581",
-    "versionName":  "2.0.17",
-    "versionCode":  227
+    "md5":  "b18a99cf25ddb796e304324eeb98915c",
+    "versionName":  "2.0.18",
+    "versionCode":  228
 }
