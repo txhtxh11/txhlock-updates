@@ -1,12 +1,12 @@
 {
-    "notes":  "豆包安装说明加了防缓存步骤：带时间戳拉 update.json、下载后校验 MD5。",
+    "notes":  "主页题目数改为总数（含本地加题），和豆包/题库统计一致。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.18.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.18.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.18.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.18.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.19.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.19.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.19.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.19.apk"
              ],
-    "md5":  "b18a99cf25ddb796e304324eeb98915c",
-    "versionName":  "2.0.18",
-    "versionCode":  228
+    "md5":  "a7e833c8d2989ef6d34bfcf54eb48589",
+    "versionName":  "2.0.19",
+    "versionCode":  229
 }
