@@ -1,12 +1,12 @@
 {
-    "notes":  "关于-遇到问题补充：老电视无法应用内更新时，可用 U 盘或豆包帮忙安装。",
+    "notes":  "激活页恢复：上面微信二维码，下面手机扫码，输入框可遥控器输入。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.15.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.15.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.15.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.15.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.16.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.16.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.16.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.16.apk"
              ],
-    "md5":  "d98027c02423bf61d46446616879095c",
-    "versionName":  "2.0.15",
-    "versionCode":  225
+    "md5":  "760e87744668c83a058e34844b615f63",
+    "versionName":  "2.0.16",
+    "versionCode":  226
 }
