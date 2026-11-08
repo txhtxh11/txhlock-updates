@@ -1,12 +1,12 @@
 {
-    "notes":  "引导页两个按钮统一 18sp 加粗，字号完全一致。",
+    "notes":  "换正式签名（商店可上架）。旧版是调试签名，无法覆盖安装：请卸载旧版后重新安装，激活码可找作者重新获取。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.27.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.27.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.27.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.27.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.28.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.28.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.28.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.28.apk"
              ],
-    "md5":  "6117c01ab9b35079eb1845d1a87d5216",
-    "versionName":  "2.0.27",
-    "versionCode":  237
+    "md5":  "33bba30de06497d10ce5023a27500a5d",
+    "versionName":  "2.0.28",
+    "versionCode":  238
 }
