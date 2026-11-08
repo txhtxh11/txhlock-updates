@@ -1,12 +1,12 @@
 {
-    "notes":  "1. 安卓 4.x 电视会明确提示：系统较旧，请用手机下载安装包更新。\n2. 设置页自动检查更新。",
+    "notes":  "1. 设置页自动检查更新：有新版按钮高亮「更新」，下载即可。\n2. 安卓 4.x 电视会提示用手机下载安装包。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.7.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.7.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.7.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.7.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.8.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.8.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.8.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.8.apk"
              ],
-    "md5":  "007d60316916a7c7ad4a96ecd75527fb",
-    "versionName":  "2.0.7",
-    "versionCode":  217
+    "md5":  "565f47673192884c9f6ecda9ada8fd18",
+    "versionName":  "2.0.8",
+    "versionCode":  218
 }
