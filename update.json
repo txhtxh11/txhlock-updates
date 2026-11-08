@@ -1,12 +1,12 @@
 {
-    "notes":  "激活页恢复：上面微信二维码，下面手机扫码，输入框可遥控器输入。",
+    "notes":  "激活页进入即聚焦输入框，遥控器可直接输入激活码。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.16.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.16.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.16.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.16.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.17.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.17.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.17.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.17.apk"
              ],
-    "md5":  "760e87744668c83a058e34844b615f63",
-    "versionName":  "2.0.16",
-    "versionCode":  226
+    "md5":  "e6a14720a121bef0aebf7cd8a2ef7581",
+    "versionName":  "2.0.17",
+    "versionCode":  227
 }
