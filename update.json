@@ -1,12 +1,12 @@
 {
-    "notes":  "1. 激活页重排：输入框加高，提示完整显示；保留遥控器输入。\n2. 购买二维码移到「关于 → 购买激活码」。\n3. 电视上不再弹出输入法挡住页面。",
+    "notes":  "豆包手册新增「帮你安装/更新应用」：老电视检查更新没反应时，用 adb 装最新版。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.12.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.12.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.12.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.12.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.13.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.13.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.13.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.13.apk"
              ],
-    "md5":  "f907eaac25f8b76e5d3ea71be132c8a3",
-    "versionName":  "2.0.12",
-    "versionCode":  222
+    "md5":  "bda0745adc1a88b6bcc637e43cce39fa",
+    "versionName":  "2.0.13",
+    "versionCode":  223
 }
