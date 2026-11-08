@@ -1,12 +1,12 @@
 {
-    "notes":  "首次引导：「完成，进入主页」改成主按钮（蓝色），「测试锁屏」改次按钮，方向键更容易选中完成。",
+    "notes":  "引导页两个按钮选中时高亮（蓝色+白框），方向键更容易看清当前选中的是「测试锁屏」还是「完成」。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.23.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.23.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.23.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.23.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.24.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.24.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.24.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.24.apk"
              ],
-    "md5":  "4ac2171e251f29c1a6b1a905649bc08a",
-    "versionName":  "2.0.23",
-    "versionCode":  233
+    "md5":  "b384f48285ae3ba9180081e6307c72c7",
+    "versionName":  "2.0.24",
+    "versionCode":  234
 }
