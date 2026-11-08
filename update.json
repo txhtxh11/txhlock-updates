@@ -1,12 +1,12 @@
 {
-    "notes":  "1. 立即锁定修复。\n2. 设置页字号统一 25sp。\n3. 二级页全屏居中，返回回到原位。\n4. 更新通道独立，源码私有。",
+    "notes":  "1. 激活页新增购买二维码（扫码加微信，发设备码换激活码）。\n2. 激活页布局微调。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.3.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.3.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.3.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.3.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.4.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.4.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.4.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.4.apk"
              ],
-    "md5":  "16171fe396c0e89371c6f17459523d87",
-    "versionName":  "2.0.3",
-    "versionCode":  213
+    "md5":  "032784cad7e6ed8961760d30d75daa5e",
+    "versionName":  "2.0.4",
+    "versionCode":  214
 }
