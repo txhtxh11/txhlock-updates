@@ -1,12 +1,12 @@
 {
-    "notes":  "手机提交激活码后，电视上会显示「手机已提交，正在激活…」→「激活成功」；手机页面也会自动显示已激活。",
+    "notes":  "首次引导：「完成，进入主页」改成主按钮（蓝色），「测试锁屏」改次按钮，方向键更容易选中完成。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.22.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.22.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.22.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.22.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.23.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.23.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.23.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.23.apk"
              ],
-    "md5":  "bf1be44e84c89a480989a14c91c9c185",
-    "versionName":  "2.0.22",
-    "versionCode":  232
+    "md5":  "4ac2171e251f29c1a6b1a905649bc08a",
+    "versionName":  "2.0.23",
+    "versionCode":  233
 }
