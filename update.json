@@ -1,12 +1,12 @@
 {
-    "notes":  "1. 设置页自动检查更新：有新版按钮高亮「更新」，下载即可。\n2. 安卓 4.x 电视会提示用手机下载安装包。",
+    "notes":  "1. 首次引导页修复：进入后焦点直接落在「去开启」，方向键可用。\n2. 「完成，进入主页」不再像灰掉，可直接选。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.8.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.8.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.8.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.8.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.9.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.9.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.9.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.9.apk"
              ],
-    "md5":  "565f47673192884c9f6ecda9ada8fd18",
-    "versionName":  "2.0.8",
-    "versionCode":  218
+    "md5":  "55a231402680bf323ed96537998cbe6a",
+    "versionName":  "2.0.9",
+    "versionCode":  219
 }
