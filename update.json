@@ -1,12 +1,12 @@
 {
-    "notes":  "豆包手册新增「帮你安装/更新应用」：老电视检查更新没反应时，用 adb 装最新版。",
+    "notes":  "豆包提示词补全：没装应用也能先装；手册新增安装/更新章节。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.13.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.13.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.13.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.13.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.14.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.14.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.14.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.14.apk"
              ],
-    "md5":  "bda0745adc1a88b6bcc637e43cce39fa",
-    "versionName":  "2.0.13",
-    "versionCode":  223
+    "md5":  "8c2880c71aeb2097ff3b8a0127205e24",
+    "versionName":  "2.0.14",
+    "versionCode":  224
 }
