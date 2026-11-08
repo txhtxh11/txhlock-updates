@@ -1,12 +1,12 @@
 {
-    "notes":  "主页题目数改为总数（含本地加题），和豆包/题库统计一致。",
+    "notes":  "修复手机扫码激活页偶尔连不上：空闲关闭后重新打开能自动重启局域网服务。",
     "urls":  [
-                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.19.apk",
-                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.19.apk",
-                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.19.apk",
-                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.19.apk"
+                 "https://cdn.jsdelivr.net/gh/txhtxh11/txhlock-updates@master/apk/txhlock_v2.0.20.apk",
+                 "https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.20.apk",
+                 "https://ghproxy.net/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.20.apk",
+                 "https://ghfast.top/https://raw.githubusercontent.com/txhtxh11/txhlock-updates/master/apk/txhlock_v2.0.20.apk"
              ],
-    "md5":  "a7e833c8d2989ef6d34bfcf54eb48589",
-    "versionName":  "2.0.19",
-    "versionCode":  229
+    "md5":  "3fd8e27263ed954d25319965459fdbb5",
+    "versionName":  "2.0.20",
+    "versionCode":  230
 }
